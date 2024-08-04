@@ -96,27 +96,4 @@ python execute_model.py
 
 The results are saved in the `results/` directory, including CSV files with dispatch data and visualizations of the energy system's performance.
 
-### Examples of Generated Visuals
 
-1. **Hourly Dispatch Over Day in Winter**:
-![Hourly Dispatch Over Day in Winter](results/Hourly_Dispatch_Day_Winter.png)
-
-2. **Hourly Dispatch Over Week in Winter**:
-![Hourly Dispatch Over Week in Winter](results/Hourly_Dispatch_Week_Winter.png)
-
-3. **Hourly Dispatch Over Week in Summer**:
-![Hourly Dispatch Over Week in Summer](results/Hourly_Dispatch_Week_Summer.png)
-
-4. **Conventional Power Plants in North Germany**:
-![Conventional Power Plants North Germany](results/Conventional_Power_Plants_North_Germany.png)
-
-5. **Conventional Power Plants in South Germany**:
-![Conventional Power Plants South Germany](results/Conventional_Power_Plants_South_Germany.png)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.

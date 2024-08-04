@@ -96,4 +96,10 @@ python execute_model.py
 
 The results are saved in the `results/` directory, including CSV files with dispatch data and visualizations of the energy system's performance.
 
+## Report
+### Abstract
+This project aims to develop an integrated energy system model to optimize the generation and storage of renewable energy sources. The model includes various types of power plants, battery energy storage systems (BESS), and pumped hydro storage. The optimization framework is designed to minimize the total operational cost while meeting the energy demand and adhering to the capacity constraints of different energy sources. The results provide insights into the optimal dispatch of energy resources over different periods, such as winter and summer weeks, highlighting the system's flexibility and reliability.
+
+The complete report can be found under report.
+
 
